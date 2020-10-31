@@ -16,6 +16,9 @@ import org.json.JSONObject
 import java.net.URL
 
 
+/**
+ * Created by wenzhibin(yanhuomatou2015) on 2020/10/27.
+ */
 class MainActivity : AppCompatActivity() {
 
     //懒加载初始化view
